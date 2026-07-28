@@ -1,0 +1,18 @@
+[submodule "Glad"]
+	path = Glad
+	url = git@github.com:kakaAllord/Glad.git
+[submodule "glfw"]
+	path = glfw
+	url = git@github.com:kakaAllord/glfw.git
+[submodule "spdlog"]
+	path = spdlog
+	url = git@github.com:kakaAllord/spdlog.git
+[submodule "templeGraphics/vendor/glfw"]
+	path = templeGraphics/vendor/glfw
+	url = git@github.com:kakaAllord/glfw.git
+[submodule "templeGraphics/vendor/Glad"]
+	path = templeGraphics/vendor/Glad
+	url = git@github.com:kakaAllord/Glad.git
+[submodule "templeGraphics/vendor/spdlog"]
+	path = templeGraphics/vendor/spdlog
+	url = git@github.com:kakaAllord/spdlog.git
