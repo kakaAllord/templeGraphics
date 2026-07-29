@@ -2,7 +2,3 @@ bin*
 *.slnx
 .vs
 *vcx*
-
-git submodule add git@github.com:kakaAllord/spdlog.git
-git submodule add git@github.com:kakaAllord/Glad.git 
-git submodule add git@github.com:kakaAllord/glfw.git
